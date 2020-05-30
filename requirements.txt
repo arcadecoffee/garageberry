@@ -1,0 +1,2 @@
+setuptools~=46.4.0
+fastapi~=0.55.1
